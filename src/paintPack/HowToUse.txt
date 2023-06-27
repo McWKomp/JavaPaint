@@ -1,0 +1,11 @@
+there is 13 colors
+
+first eight colors you call by pressing the key that equal to initial letter of that color
+and the other five colors you call by pressing the key with needed number (from 1 to 5)
+
+by pressing "-" symbol you make the size of pen 5px bigger and by pressing "+" ("=") symbol
+you make the opposite thing
+
+by pressing "T" key you adding textArea item to window
+
+your activity (drawing/erasing) shows now on title of the window
